@@ -63,9 +63,7 @@ const swiper = new Swiper(".possibilities-swiper", {
 
   breakpoints: {
     320: { slidesPerView: 1 },
-    400: { slidesPerView: 1.1 },
-    430: { slidesPerView: 1.1 },
-    490: { slidesPerView: 1.2 },
+    490: { slidesPerView: 1 },
     530: { slidesPerView: 1.3 , },
      570: { slidesPerView: 1.4 , },
     620: { slidesPerView: 1.5 , },
